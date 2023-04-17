@@ -4,7 +4,7 @@ x = int(input("첫 번째 정수: ")) #사용자가 3을 입력했다고 가정
 y = int(input("두 번째 정수: ")) #사용자가 4을 입력했다고 가정
 
 sum = x + y
-print("합은 ", sum)
+print("합dnsnd은 ", sum)
    
 s1 = sum // 3
 s2 = sum%3
